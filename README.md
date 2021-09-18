@@ -87,7 +87,8 @@ Choose Sync among CSync, Composite (CVBS) or Luma
 ---
 
 #### PAL Configuration
-- **DO NOT** populate R1. Populate R2, R3, R4, R5.
+- **DO NOT** populate R1.
+- Populate R2, R3, R4, R5.
 - Short C1, C2, C3 with individual conductors.
 
 Choose Sync between Composite (CVBS) or Luma
