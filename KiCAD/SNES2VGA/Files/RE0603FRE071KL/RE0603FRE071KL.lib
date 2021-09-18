@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# RE0603FRE071KL
+#
+DEF RE0603FRE071KL R 0 40 N N 1 L N
+F0 "R" -300 100 50 H V L BNN
+F1 "RE0603FRE071KL" -300 -200 50 H V L BNN
+F2 "RESC1608X55N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -200 0 -175 75 N
+P 2 0 0 10 -175 75 -125 -75 N
+P 2 0 0 10 -125 -75 -75 75 N
+P 2 0 0 10 -75 75 -25 -75 N
+P 2 0 0 10 -25 -75 25 75 N
+P 2 0 0 10 25 75 75 -75 N
+P 2 0 0 10 75 -75 125 75 N
+P 2 0 0 10 125 75 175 -75 N
+P 2 0 0 10 175 -75 200 0 N
+X ~ 1 -400 0 200 R 40 40 0 0 P 
+X ~ 2 400 0 200 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
