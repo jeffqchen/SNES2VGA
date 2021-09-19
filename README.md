@@ -8,7 +8,7 @@ This dongle takes the AV Multi output used on various Nintendo consoles and adap
 
 Note that consoles usually require RGB mods in order to output RGBs signal.
 - NES/Famicom - NESRGB with AV Multi output
-- SNES - As-is, or SNES Bypass for better video quality
+- SNES - As-is, or RGB Bypass for better video quality
 - Nintendo64 - Simple RGB mod, N64RGB, N64Digital
 - GameCube - GCDual
 
