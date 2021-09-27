@@ -18,7 +18,7 @@ Note that consoles usually require RGB mods in order to output RGBs signal.
 
 ### Audio
 
-Audio can be sent within the VGA cable, or broken out from the 3.5mm jack on the dongle. Buzzing may be noticeable when audio is transmited throught the VGA cable in certain scenes in certain games. This is due to insufficient shielding in most VGA cables. If you find buzzing to be annoying, please use the 3.5mm jack on the dongle for audio outputting.
+Audio can be sent within the VGA cable, or broken out from the 3.5mm jack on the dongle. Buzzing may be noticeable when audio is transmited throught the VGA cable in certain scenes in certain games. This is due to insufficient shielding in most VGA cables. If you find the buzzing to be annoying, please use the 3.5mm jack on the dongle for audio outputting. This will ensure the cleanest audio output.
 
 -----
 
