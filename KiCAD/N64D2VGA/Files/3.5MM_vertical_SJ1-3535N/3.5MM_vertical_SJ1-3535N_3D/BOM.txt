@@ -1,0 +1,3 @@
+3DX_CUI_DEVICES_Supplier: CUI Devices
+3DX_CUI_DEVICES_Description: 3.5 mm Right-Angle Stereo Jack, 5 Pin PCB Mount, Non-Threaded
+3DX_CUI_DEVICES_Model Number: SJ1-3535N

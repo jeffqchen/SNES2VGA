@@ -1,0 +1,11 @@
+(module Outline_PCB_Sub (layer F.Cu) (tedit 61303A1F)
+  (fp_text reference G*** (at -5.842 -11.938) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_text value LOGO (at 7.112 -12.192) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_poly (pts (xy 9.978571 3.729365) (xy 5.241651 3.729365) (xy 5.235161 2.160763) (xy 5.22867 0.592162)
+    (xy -5.178274 0.592162) (xy -5.184765 2.160763) (xy -5.191255 3.729365) (xy -9.953373 3.729365)
+    (xy -9.953373 -3.729365) (xy 9.978571 -3.729365) (xy 9.978571 3.729365)) (layer Eco1.User) (width 0.01))
+)

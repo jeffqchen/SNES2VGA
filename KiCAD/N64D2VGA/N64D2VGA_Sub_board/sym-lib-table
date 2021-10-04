@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name N64D2VGA_Library)(type Legacy)(uri /Users/jeffchen/KiCAD/N64D2VGA/N64D2VGA_Library.lib)(options "")(descr ""))
+)
