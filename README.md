@@ -24,24 +24,27 @@ Audio can be sent within the VGA cable, or broken out from the 3.5mm jack on the
 
 ## Parts
 ### Common Parts
-- 3D Printed Shell - Top & Bottom
 
-- M3x20mm screw and nut
-
-- PCB
+PCB
   - Main https://oshpark.com/shared_projects/Y6jGuVaV
   - Sub https://oshpark.com/shared_projects/RpSdS3qo
 
-- Nintendo AV Multi Plug
-https://www.aliexpress.com/item/4000049107078.html
+Nintendo AV Multi Plug
+- https://www.aliexpress.com/item/4000049107078.html
 
-- VGA Port Female - Slim
-https://www.aliexpress.com/item/4000596805684.html
+VGA Port Female - Slim
+- https://www.aliexpress.com/item/4000596805684.html
 
-- PJ-325 3.5mm Audio Jack - 5 contacts, vertical design
-https://www.aliexpress.com/item/1005002983859846.html
+PJ-325 3.5mm Audio Jack - 5 contacts, vertical design
+- https://www.aliexpress.com/item/1005002983859846.html
+- https://www.digikey.com/en/products/detail/cui-devices/SJ1-3535N/738696
 
-- [2x] 0603 Capacitor 6.3V 10uF - C4, C5
+[2x] 0603 Capacitor 6.3V 10uF - C4, C5
+
+M3x20mm screw and nut
+- https://www.amazon.com/gp/product/B014OO5KQG
+
+3D Printed Shell - Top & Bottom
 
 ---
 
