@@ -29,8 +29,8 @@ Audio can be sent within the VGA cable, or broken out from the 3.5mm jack on the
 - M3x20mm screw and nut
 
 - PCB
-  - Main https://oshpark.com/shared_projects/wgrOlfGk
-  - Sub https://oshpark.com/shared_projects/C4lq4nqC
+  - Main https://oshpark.com/shared_projects/Y6jGuVaV
+  - Sub https://oshpark.com/shared_projects/RpSdS3qo
 
 - Nintendo AV Multi Plug
 https://www.aliexpress.com/item/4000049107078.html
