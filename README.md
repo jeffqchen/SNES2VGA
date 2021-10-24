@@ -132,9 +132,9 @@ Tuck the assembled PCB into one side of the shell. Make sure the video plug fits
 
 ## Special Thanks
 
-- Mike Chi - Beloved createor of RetroTink
-https://www.retrotink.com
+Mike Chi - Beloved createor of RetroTink
+- https://www.retrotink.com
 
 
-- Javier Rodas
-https://twitter.com/JaviRodasG
+Javier Rodas
+- https://twitter.com/JaviRodasG
