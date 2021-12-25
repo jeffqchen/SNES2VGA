@@ -55,7 +55,9 @@ M3x20mm screw and nut
 ### NTSC Configuration
 
 - [1x] 0603 Resistor 470 Ohm - R1, **ONLY** if you choose CSync
-- [3x] 1206 Capacitor X5R 6.3V 100µF - C1, C2, C3
+- [3x] 1206 Capacitor X5R 6.3V 100 ~ 220uF - C1, C2, C3
+
+* The suggested value for the capacitor is 220uF. Using 100uF caps will give you non-uniform brightness vertically. It won't show on a CRT screen but you might be able to spot it with a scaler. *
 
 ---
 
