@@ -28,7 +28,7 @@ Audio can be sent within the VGA cable, or broken out from the 3.5mm jack on the
 
 A specific version called [N64D2VGA](./N64D2VGA) that works with Nintendo 64 is also provided.
 
-This one works well with my [N64Digital mini HDMI to Full HDMI Dongle](../N64Digital-Mini-To-Full-HDMI-Adapter) so you could achieve analogue & digital dual output with full sized plugs without interference.
+This one works well with my [N64Digital mini HDMI to Full HDMI Dongle](../../N64Digital-Mini-To-Full-HDMI-Adapter) so you could achieve analogue & digital dual output with full sized plugs without interference.
 
 -----
 
