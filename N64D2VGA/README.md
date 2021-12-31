@@ -38,8 +38,8 @@ Audio can be sent within the VGA cable, or broken out from the 3.5mm jack on the
 ### Common Parts
 
 PCB
-  - Main https://oshpark.com/shared_projects/nDvZOKmn
-  - Sub https://oshpark.com/shared_projects/RpSdS3qo
+  - Main https://oshpark.com/shared_projects/gnmrDMrM
+  - Sub https://oshpark.com/shared_projects/ERxGMR9J
 
 Nintendo AV Multi Plug
 - https://www.aliexpress.com/item/4000049107078.html
