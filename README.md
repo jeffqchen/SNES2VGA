@@ -15,13 +15,20 @@ Note that consoles usually require RGB mods in order to output RGBs signal.
 - Nintendo64 - Simple RGB mod, N64RGB, N64Digital
 - GameCube - GCDual
 
-<img src="./Pics/2.jpg" width="200px" /> <img src="./Pics/3.jpg" width="200px" /> <img src="./Pics/4.jpg" width="200px" />
-
-<img src="./Pics/5.jpg" width="200px" />
+<img src="./Pics/2.jpg" width="200px" /> <img src="./Pics/3.jpg" width="200px" />
+<img src="./Pics/4.jpg" width="200px" /> <img src="./Pics/5.jpg" width="200px" />
 
 ### Audio
 
 Audio can be sent within the VGA cable, or broken out from the 3.5mm jack on the dongle. Buzzing may be noticeable when audio is transmited throught the VGA cable in certain scenes in certain games. This is due to insufficient shielding in most VGA cables. If you find the buzzing to be annoying, please use the 3.5mm jack on the dongle for audio outputting. This will ensure the cleanest audio output.
+
+### Variation
+
+<img src="./Pics/N64D2VGA.jpg" width="400px" />
+
+A specific version called [N64D2VGA](./tree/main/N64D2VGA) that works with Nintendo 64 is also provided.
+
+This one works well with my [N64Digital mini HDMI to Full HDMI Dongle](https://github.com/jeffqchen/N64Digital-Mini-To-Full-HDMI-Adapter) so you could achieve analogue & digital dual output with full sized plugs without interference.
 
 -----
 
