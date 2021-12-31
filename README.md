@@ -15,8 +15,9 @@ Note that consoles usually require RGB mods in order to output RGBs signal.
 - Nintendo64 - Simple RGB mod, N64RGB, N64Digital
 - GameCube - GCDual
 
-<img src="./Pics/2.jpg" width="200px" /><img src="./Pics/3.jpg" width="200px" />
-<img src="./Pics/4.jpg" width="200px" /><img src="./Pics/5.jpg" width="200px" />
+<img src="./Pics/2.jpg" width="200px" /> <img src="./Pics/3.jpg" width="200px" />
+
+<img src="./Pics/4.jpg" width="200px" /> <img src="./Pics/5.jpg" width="200px" />
 
 ### Audio
 
