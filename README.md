@@ -19,6 +19,12 @@ Note that consoles usually require RGB mods in order to output RGBs signal.
 
 <img src="./Pics/4.jpg" width="200px" /> <img src="./Pics/5.jpg" width="200px" />
 
+### Sync
+
+You can choose among CSync, Luma and composite video as your sync signal with the jumper on the PCB.
+
+Note PAL console does not support CSync and you should not populate CSync related components.
+
 ### Audio
 
 Audio can be sent within the VGA cable, or broken out from the 3.5mm jack on the dongle. Buzzing may be noticeable when audio is transmitted through the VGA cable in certain scenes in certain games. This is due to insufficient shielding in most VGA cables. If you find the buzzing to be annoying, please use the 3.5mm jack on the dongle for audio outputting. This will ensure the cleanest audio output.

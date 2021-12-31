@@ -6,7 +6,7 @@ N64D2VGA Dongle for Nintendo 64 Console.
 
 ## Introduction
 
-This dongle takes the RGBS signal from the AV Multi output on a Nintendo 64 consoles and adapts them into HD15 (VGA), so you can use the commonly available VGA cable for transmitting RGBs video and stereo audio.
+This dongle takes the RGBS signal from the AV Multi output on a Nintendo 64 console and adapts it into HD15 (VGA), so you can use the commonly available VGA cable for transmitting RGBs video and stereo audio.
 
 This is designed to work with the [N64Digital mini HDMI to Full HDMI Dongle](https://github.com/jeffqchen/N64Digital-Mini-To-Full-HDMI-Adapter). You could achieve analogue & digital dual output with full sized plugs without interference.
 
@@ -14,12 +14,17 @@ This is designed to work with the [N64Digital mini HDMI to Full HDMI Dongle](htt
 
 <img src="./Pics/04.jpg" width="200px" /><img src="./Pics/05.jpg" width="200px" />
 
-
-Note that the Nintendo 64 requires a mod in order to output RGBs signal, such as:
+Note that the Nintendo 64 requires a mod in order to output RGBS signal, such as:
 
 - [N64Digital](https://docs.pixelfx.co/N64Digital-Details.html)
 - Simple RGB mod ([Voultar's](https://voultar.com/index.php?route=product/product&product_id=50&tracking=5824d766cf098), [Borti's](https://github.com/borti4938/n64rgb/tree/master/simpleRGBamp))
 - [N64RGB](https://github.com/borti4938/n64rgb)
+
+### Sync
+
+You can choose among CSync, Luma and composite video as your sync signal with the jumper on the PCB.
+
+Note PAL console does not support CSync and you should not populate CSync related components.
 
 ### Audio
 
