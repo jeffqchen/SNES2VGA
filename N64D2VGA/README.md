@@ -26,9 +26,7 @@ Note that the Nintendo 64 requires a mod in order to output RGBs signal, such as
 Audio can be sent within the VGA cable, or broken out from the 3.5mm jack on the dongle. Buzzing may be noticeable when audio is transmitted through the VGA cable in certain scenes in certain games. This is due to insufficient shielding in most VGA cables. If you find the buzzing to be annoying, please use the 3.5mm jack on the dongle for audio outputting. This will ensure the cleanest audio output.
 
 
-<img src="./Pics/06.jpg" width="200px" />
-<img src="./Pics/07.jpg" width="200px" />
-<img src="./Pics/08.jpg" width="200px" />
+<img src="./Pics/06.jpg" width="200px" /><img src="./Pics/07.jpg" width="200px" /><img src="./Pics/08.jpg" width="200px" />
 
 -----
 
