@@ -10,10 +10,8 @@ This dongle takes the RGBS signal from the AV Multi output on a Nintendo 64 cons
 
 This is designed to work with the [N64Digital mini HDMI to Full HDMI Dongle](https://github.com/jeffqchen/N64Digital-Mini-To-Full-HDMI-Adapter). You could achieve analogue & digital dual output with full sized plugs without interference.
 
-<img src="./Pics/02.jpg" width="200px" />
-<img src="./Pics/03.jpg" width="200px" />
-<img src="./Pics/04.jpg" width="200px" />
-<img src="./Pics/05.jpg" width="200px" />
+<img src="./Pics/02.jpg" width="200px" /><img src="./Pics/03.jpg" width="200px" />
+<img src="./Pics/04.jpg" width="200px" /><img src="./Pics/05.jpg" width="200px" />
 
 
 Note that the Nintendo 64 requires a mod in order to output RGBs signal, such as:
