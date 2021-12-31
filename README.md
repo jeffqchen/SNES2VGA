@@ -20,7 +20,7 @@ Note that consoles usually require RGB mods in order to output RGBs signal.
 
 ### Audio
 
-Audio can be sent within the VGA cable, or broken out from the 3.5mm jack on the dongle. Buzzing may be noticeable when audio is transmited throught the VGA cable in certain scenes in certain games. This is due to insufficient shielding in most VGA cables. If you find the buzzing to be annoying, please use the 3.5mm jack on the dongle for audio outputting. This will ensure the cleanest audio output.
+Audio can be sent within the VGA cable, or broken out from the 3.5mm jack on the dongle. Buzzing may be noticeable when audio is transmitted through the VGA cable in certain scenes in certain games. This is due to insufficient shielding in most VGA cables. If you find the buzzing to be annoying, please use the 3.5mm jack on the dongle for audio outputting. This will ensure the cleanest audio output.
 
 ### Variation
 
@@ -88,7 +88,7 @@ For a better mating surface finishing, use raft for bed adhesion.
 
 ### Solder sub PCB to the main
 
-First, align the sub PCB on top of the main PCB, align with the helper line and make sure the correct sides are facing the outside. Solder the two outside-most castellated pins and pads one by one, making sure the outside of the two boards are flush, so the plug can be soldered properlly. Then proceed to solder the rest of the castellated pins to the pads.
+First, align the sub PCB on top of the main PCB, align with the helper line and make sure the correct sides are facing the outside. Solder the two outside-most castellated pins and pads one by one, making sure the outside of the two boards are flush, so the plug can be soldered properly. Then proceed to solder the rest of the castellated pins to the pads.
 
 <img src="./Pics/6.jpg" width="600px" />
 
@@ -96,7 +96,7 @@ First, align the sub PCB on top of the main PCB, align with the helper line and 
 
 Next, take a Nintendo video plug. Note the pins on the soldering side are sticking out straight. Now **bend** both rows of the pins inwards, with the help of the edge of a table. This way, the pins will actually be able to touch the pads on the PCB compound.
 
-Tuck the plug onto the coumpound PCB. Make sure the plug is pointing the correct way up - the notched side of the plug is up, and the side with the smaller sub PCB is up. Align the pins to the pads as good as possible. Make sure there is no gap between the plug and the PCB on the mating edge. Then, solder one pin on each side with a generous amount of solder. Remelt and adjust the position if needed. Then proceed and solder the rest of the pins to the PCB with generous amount of solder.
+Tuck the plug onto the compound PCB. Make sure the plug is pointing the correct way up - the notched side of the plug is up, and the side with the smaller sub PCB is up. Align the pins to the pads as good as possible. Make sure there is no gap between the plug and the PCB on the mating edge. Then, solder one pin on each side with a generous amount of solder. Remelt and adjust the position if needed. Then proceed and solder the rest of the pins to the PCB with generous amount of solder.
 
 ### SMD components
 
@@ -104,7 +104,7 @@ Solder on the SMD components. Note for NTSC and PAL consoles, the component conf
 
 ---
 
-### NTSC Configuraion
+### NTSC Configuration
 
 - Populate C1, C2, C3
 
@@ -141,7 +141,7 @@ Tuck the assembled PCB into one side of the shell. Make sure the video plug fits
 
 ## Special Thanks
 
-Mike Chi - Beloved createor of RetroTink
+Mike Chi - Beloved creator of RetroTink
 - https://www.retrotink.com
 
 
