@@ -20,13 +20,13 @@ Note that the Nintendo 64 requires a mod in order to output RGBS signal, such as
 - Simple RGB mod ([Voultar's](https://voultar.com/index.php?route=product/product&product_id=50&tracking=5824d766cf098), [Borti's](https://github.com/borti4938/n64rgb/tree/master/simpleRGBamp))
 - [N64RGB](https://github.com/borti4938/n64rgb)
 
-### Sync
+## Sync
 
 You can choose among CSync, Luma and composite video as your sync signal with the jumper on the PCB.
 
 Note PAL console does not support CSync and you should not populate CSync related components.
 
-### Audio
+## Audio
 
 Audio can be sent within the VGA cable, or broken out from the 3.5mm jack on the dongle. Buzzing may be noticeable when audio is transmitted through the VGA cable in certain scenes in certain games. This is due to insufficient shielding in most VGA cables. If you find the buzzing to be annoying, please use the 3.5mm jack on the dongle for audio outputting. This will ensure the cleanest audio output.
 
