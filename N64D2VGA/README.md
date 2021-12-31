@@ -8,7 +8,7 @@ N64D2VGA Dongle for Nintendo 64 Console.
 
 This dongle takes the RGBS signal from the AV Multi output on a Nintendo 64 consoles and adapts them into HD15 (VGA), so you can use the commonly available VGA cable for transmitting RGBs video and stereo audio.
 
-This mod is designed to work with the [N64Digital mini HDMI to Full HDMI Dongle](https://github.com/jeffqchen/N64Digital-Mini-To-Full-HDMI-Adapter). You could achieve analogue & digital dual output with full sized plugs without interference.
+This is designed to work with the [N64Digital mini HDMI to Full HDMI Dongle](https://github.com/jeffqchen/N64Digital-Mini-To-Full-HDMI-Adapter). You could achieve analogue & digital dual output with full sized plugs without interference.
 
 <img src="./Pics/02.jpg" width="200px" />
 <img src="./Pics/03.jpg" width="200px" />
@@ -63,7 +63,7 @@ M3x20mm screw and nut
 ### NTSC Configuration
 
 - [1x] 0603 Resistor 470 Ohm - R1, **ONLY** if you choose CSync
-- [3x] SMD eletrolytic Capacitor 220uF - C1, C2, C3
+- [3x] SMD electrolytic Capacitor 220uF - C1, C2, C3
 
 ---
 
@@ -81,5 +81,5 @@ Please refer to the [SNES2VGA assembly guide](https://github.com/jeffqchen/SNES2
 
 ## Special Thanks
 
-Mike Chi - Beloved createor of RetroTink
+Mike Chi - Beloved creator of RetroTink
 - https://www.retrotink.com
