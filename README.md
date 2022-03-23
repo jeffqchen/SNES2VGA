@@ -43,33 +43,29 @@ This one works with my [N64Digital mini HDMI to Full HDMI Dongle](../../../N64Di
 
 ### Common Parts
 
-PCB
-  - Main https://oshpark.com/shared_projects/nDvZOKmn
-  - Sub https://oshpark.com/shared_projects/RpSdS3qo
+- PCB
+  - [Main](https://oshpark.com/shared_projects/nDvZOKmn)
+  - [Sub](https://oshpark.com/shared_projects/RpSdS3qo)
 
-Nintendo AV Multi Plug
-- https://www.aliexpress.com/item/4000049107078.html
 
-VGA Port Female - Slim
-- https://www.aliexpress.com/item/4000596805684.html
+- Nintendo AV Plug - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Nintendo%20AV%20Plug/info.md)
 
-PJ-325 3.5mm Audio Jack - 5 contacts, vertical design
-- https://www.aliexpress.com/item/1005002983859846.html
-- https://www.digikey.com/en/products/detail/cui-devices/SJ1-3535N/738696
+- VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
 
-[2x] 0603 Capacitor 6.3V 10uF - C4, C5
+- Vertical 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Vertical%203.5mm%205-Pin%20Audio%20Jack/info.md)
 
-M3x20mm screw and nut
-- https://www.amazon.com/gp/product/B014OO5KQG
+- [1x] M3x20mm screw and nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
-3D Printed Shell - Top & Bottom
+- [2x] 0603 Capacitor 6.3V 10uF - C4, C5
+
+- 3D Printed Shell - Top & Bottom
 
 ---
 
 ### NTSC Configuration
 
+- C1, C2, C3: [3x] 220uF / 6.3V / Imperial 1206 Size - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/220uF%20SMD%20Cap/info.md)
 - [1x] 0603 Resistor 470 Ohm - R1, **ONLY** if you choose CSync
-- [3x] 1206 Capacitor X5R 6.3V 100 ~ 220uF - C1, C2, C3
 
 The suggested value for the capacitor is 220uF or above. Using 100uF caps will give you non-uniform brightness vertically. It won't show on a CRT screen but you might be able to spot it with a scaler. But, the 100uF caps are much cheaper and verified to work, so it's your choice to make.
 
