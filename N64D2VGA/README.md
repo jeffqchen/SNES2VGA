@@ -39,26 +39,22 @@ Audio can be sent within the VGA cable, or broken out from the 3.5mm jack on the
 
 ### Common Parts
 
-PCB
-  - Main https://oshpark.com/shared_projects/gnmrDMrM
-  - Sub https://oshpark.com/shared_projects/ERxGMR9J
+- PCB
+  - [Main](https://oshpark.com/shared_projects/gnmrDMrM)
+  - [Sub](https://oshpark.com/shared_projects/ERxGMR9J)
+  
 
-Nintendo AV Multi Plug
-- https://www.aliexpress.com/item/4000049107078.html
+- Nintendo AV Plug - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Nintendo%20AV%20Plug/info.md)
 
-VGA Port Female - Slim
-- https://www.aliexpress.com/item/4000596805684.html
+- VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
 
-PJ-325 3.5mm Audio Jack - 5 contacts, vertical design
-- https://www.aliexpress.com/item/1005002983859846.html
-- https://www.digikey.com/en/products/detail/cui-devices/SJ1-3535N/738696
+- Vertical 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Vertical%203.5mm%205-Pin%20Audio%20Jack/info.md)
 
-[2x] 0603 Capacitor 6.3V 10uF - C4, C5
+- M3x20mm screw and nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
-M3x20mm screw and nut
-- https://www.amazon.com/gp/product/B014OO5KQG
+- [2x] 0603 Capacitor 6.3V 10uF - C4, C5
 
-3D Printed Shell - Top & Bottom
+- 3D Printed Shell - Top & Bottom
 
 ---
 
