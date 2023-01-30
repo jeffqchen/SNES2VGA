@@ -58,7 +58,9 @@ This one works with my [N64Digital mini HDMI to Full HDMI Dongle](../../../N64Di
 
 - [2x] Imperials 0603 SMD Capacitor 6.3V 10uF - C4, C5
 
-- 3D Printed Shell - Top & Bottom
+- 3D Printed Shell
+  - [Top](https://github.com/jeffqchen/SNES2VGA/blob/main/3D%20Print/SNES2VGA/Top.stl)
+  - [Bottom](https://github.com/jeffqchen/SNES2VGA/blob/main/3D%20Print/SNES2VGA/Bottom.stl)
 
 ---
 
@@ -71,7 +73,7 @@ This one works with my [N64Digital mini HDMI to Full HDMI Dongle](../../../N64Di
 
 ### PAL Configuration
 
-- C6 220uF / 6.3V / Imperial 1206 Size - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/220uF%20SMD%20Cap/info.md)
+- C6: [1x] 220uF / 6.3V / Imperial 1206 Size - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/220uF%20SMD%20Cap/info.md)
 - [4x] Imperial SMD 0603 Resistor 75 Ohm - R2, R3, R4, R5
 
 ---
