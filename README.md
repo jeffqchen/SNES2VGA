@@ -44,7 +44,7 @@ This one works with my [N64Digital mini HDMI to Full HDMI Dongle](../../../N64Di
 ### Common Parts
 
 - PCB
-  - [Main](https://oshpark.com/shared_projects/nDvZOKmn)
+  - [Main](https://oshpark.com/projects/JstxPxyZ)
   - [Sub](https://oshpark.com/shared_projects/RpSdS3qo)
 
 
@@ -56,7 +56,7 @@ This one works with my [N64Digital mini HDMI to Full HDMI Dongle](../../../N64Di
 
 - [1x] M3x20mm screw and nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
-- [2x] 0603 Capacitor 6.3V 10uF - C4, C5
+- [2x] Imperials 0603 SMD Capacitor 6.3V 10uF - C4, C5
 
 - 3D Printed Shell - Top & Bottom
 
@@ -65,19 +65,18 @@ This one works with my [N64Digital mini HDMI to Full HDMI Dongle](../../../N64Di
 ### NTSC Configuration
 
 - C1, C2, C3: [3x] 220uF / 6.3V / Imperial 1206 Size - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/220uF%20SMD%20Cap/info.md)
-- [1x] 0603 Resistor 470 Ohm - R1, **ONLY** if you choose CSync
-
-The suggested value for the capacitor is 220uF or above. Using 100uF caps will give you non-uniform brightness vertically. It won't show on a CRT screen but you might be able to spot it with a scaler. But, the 100uF caps are much cheaper and verified to work, so it's your choice to make.
+- [1x] Imperial SMD 0603 Resistor 470 Ohm - R1, **ONLY** if you choose CSync
 
 ---
 
 ### PAL Configuration
 
-- [4x] 0603 Resistor 75 Ohm - R2, R3, R4, R5
+- C6 220uF / 6.3V / Imperial 1206 Size - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/220uF%20SMD%20Cap/info.md)
+- [4x] Imperial SMD 0603 Resistor 75 Ohm - R2, R3, R4, R5
 
 ---
 
-## Printing the shell
+## Printing the Shell
 
 Print the files with the split face facing downwards.
 
@@ -101,9 +100,9 @@ Next, take a Nintendo video plug. Note the pins on the soldering side are sticki
 
 Tuck the plug onto the compound PCB. Make sure the plug is pointing the correct way up - the notched side of the plug is up, and the side with the smaller sub PCB is up. Align the pins to the pads as good as possible. Make sure there is no gap between the plug and the PCB on the mating edge. Then, solder one pin on each side with a generous amount of solder. Remelt and adjust the position if needed. Then proceed and solder the rest of the pins to the PCB with generous amount of solder.
 
-### SMD components
+### SMD Components
 
-Solder on the SMD components. Note for NTSC and PAL consoles, the component configurations are **different**. Please obey the instructions on the silk screen.
+Solder on the SMD components. Note for NTSC and PAL consoles, the component configurations are **quite different**. Please follow the instructions on the silk screen.
 
 ---
 
@@ -111,20 +110,29 @@ Solder on the SMD components. Note for NTSC and PAL consoles, the component conf
 
 - Populate C1, C2, C3
 
-Choose Sync among CSync, Composite (CVBS) or Luma
-- Populate R1, OR short jumper J1 for CVBS or Luma. Choose only **ONE**.
+#### Choose A Sync
+
+##### CSync
+- Populate R1
+
+##### Composite (CVBS) or Luma As Sync
+- Do NOT populate R1
+- Short one side of jumper J1 for CVBS or Luma. Choose only **ONE**
+- Short J2
 
 ---
 
 ### PAL Configuration
 
-- **DO NOT** populate R1.
-- Populate R2, R3, R4, R5.
-- Short C1, C2, C3 with individual conductors.
+- **DO NOT** populate R1
+- Populate R2, R3, R4, R5
+- Short C1, C2, C3 with individual conductors
+- Populate C6
 
-Choose Sync between Composite (CVBS) or Luma
+#### Choose A Sync between Composite (CVBS) or Luma
 
-- Short jumper J1 for CVBS or Luma. Choose only **ONE**.
+- Short one side of jumper J1 for CVBS or Luma. Choose only **ONE**
+- Leave J2 open
 
 ---
 
@@ -139,6 +147,10 @@ Solder on the through hole VGA and 3.5mm audio port. Note they are supposed to b
 ## Final Assembly
 
 Tuck the assembled PCB into one side of the shell. Make sure the video plug fits correctly in. Then drop the other side of the shell in and slowly bring the two sides to a close. Inspect the shells for any remaining support material if you can't correctly close it up. Finally, put in the screw and nut to secure the whole assembly.
+
+---
+## Misc Info
+Non-CSync signals are incompatible with the AV3 input on the OSSC. Only TTL CSync works with AV3 on the OSSC.
 
 ---
 
