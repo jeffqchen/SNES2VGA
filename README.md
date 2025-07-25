@@ -42,7 +42,7 @@ No native RGB output. Different models require different levels of modding to re
 
 You can choose among CSync, Luma and composite video as your sync signal with the jumper on the PCB.
 
-Note PAL console does not support CSync and you should not populate CSync related components.
+**WARNING**: PAL consoles output 12V on the CSync pin. CSync related components should NOT be populated if you are building this dongle for a PAL console.
 
 ## Audio
 
