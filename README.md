@@ -13,7 +13,7 @@ Note that consoles usually require RGB mods in order to output RGBs signal.
 - NES/Famicom - NESRGB with AV Multi output
 - SNES - As-is, or RGB Bypass for better video quality
 - Nintendo64 - Simple RGB mod, N64RGB, N64Digital
-- GameCube - GCDual
+- GameCube - GCDual (NTSC/NTSC-J Gamecubes) (PAL Gamecubes output RGB natively)
 
 <img src="./Pics/2.jpg" width="200px" /> <img src="./Pics/3.jpg" width="200px" />
 
