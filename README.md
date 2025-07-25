@@ -20,14 +20,20 @@ For them to output RGB, modding it with an [NESRGB](https://etim.net.au/nesrgb/)
 
 *(If you installed an 8 or 9-pin MiniDin port, please check my [8DIN2VGA](https://github.com/jeffqchen/8DIN2VGA) and [9DIN2VGA](https://github.com/jeffqchen/9DIN2VGA) projects instead.)*
 
+---------
+
 #### Super NES / Super Famicom (Jr.)
 
 - NTSC consoles not output RGB signals natively, and need to be modded to restore RGB output with [SNES RGB Bypass](https://github.com/borti4938/SNES_RGB_Bypass).
 - PAL consoles output an RGB signal, but outputs 12V on the same pin where CSync is output on a NTSC console. Care must be taken when assembling the dongle.
 
+---------
+
 #### Nintendo 64
 
 No native RGB output. Different models require different levels of modding to restore RGB output ([Simple RGB Bypass](https://voultar.com/index.php?route=product/product&product_id=50), [N64RGB](https://etim.net.au/n64rgb/), etc)
+
+---------
 
 #### GameCube
 
