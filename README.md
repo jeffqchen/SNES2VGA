@@ -10,10 +10,26 @@ This dongle takes the AV Multi output used on various Nintendo consoles and adap
 
 Note that consoles usually require RGB mods in order to output RGBs signal.
 
-- NES/Famicom - NESRGB with AV Multi output
-- SNES - As-is, or RGB Bypass for better video quality
-- Nintendo64 - Simple RGB mod, N64RGB, N64Digital
-- GameCube - GCDual
+### Console Compatibility
+
+#### NES/Famicom
+The NES/Famicom do not generate or output RGB signals natively. They generate composite video and output it as-is or encode it to RF.
+
+For them to output RGB, modding it with an [NESRGB](https://etim.net.au/nesrgb/) and the [Nintendo AV Multi style port](https://www.laserbear.net/products/nes-front-loader-snap-fit-multiout) is required.
+
+*If you installed an 8 or 9-pin MiniDin port, please check my [8DIN2VGA](https://github.com/jeffqchen/8DIN2VGA) and [9DIN2VGA](https://github.com/jeffqchen/9DIN2VGA) projects instead.*
+
+#### SNES/SFC
+- NTSC consoles not output RGB signals natively, and need to be modded to restore RGB output with [SNES RGB Bypass](https://github.com/borti4938/SNES_RGB_Bypass).
+- PAL consoles output an RGB signal, but outputs 12V on the same pin where CSync is output on a NTSC console. Care must be taken when assembling the dongle.
+
+#### Nintendo 64
+
+No native RGB output. Different models require different levels of modding to restore RGB output ([Simple RGB Bypass](https://voultar.com/index.php?route=product/product&product_id=50), [N64RGB](https://etim.net.au/n64rgb/), etc)
+
+#### GameCube
+- NTSC consoles don't output RGB signals. RGB mod, such as [GCVideo](https://github.com/ikorb/gcvideo), is required.
+- PAL consoles support RGB output natively, however the same `12V on CSync ordeal` is still present.
 
 <img src="./Pics/2.jpg" width="200px" /> <img src="./Pics/3.jpg" width="200px" />
 
