@@ -144,7 +144,7 @@ Solder on the SMD components. Note for NTSC and PAL consoles, the component conf
 
 ##### Composite (CVBS) or Luma As Sync
 - Do NOT populate R1
-- Short one side of jumper J1 for CVBS or Luma. Choose only **ONE**
+- Short one side of jumper JP1 for CVBS or Luma. Choose only **ONE**
 - Short J2
 
 ---
@@ -158,8 +158,8 @@ Solder on the SMD components. Note for NTSC and PAL consoles, the component conf
 
 #### Choose A Sync between Composite (CVBS) or Luma
 
-- Short one side of jumper J1 for CVBS (recommended) or Luma. Choose only **ONE**
-- Leave J2 open
+- Short one side of jumper JP1 for CVBS (recommended) or Luma. Choose only **ONE**
+- Leave JP2 open
 
 ---
 
