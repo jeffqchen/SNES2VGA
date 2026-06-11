@@ -141,6 +141,7 @@ Solder on the SMD components. Note for NTSC and PAL consoles, the component conf
 
 ##### CSync
 - Populate R1
+- Leave JP2 open
 
 ##### Composite (CVBS) or Luma As Sync
 - Do NOT populate R1
